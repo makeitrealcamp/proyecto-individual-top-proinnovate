@@ -10,9 +10,10 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 - El backend debe estar implementado en Node.js (Express) y el frontend en React. Usar TypeScript es opcional. 
 - Debe incluir carga de imágenes y envío de correos.
 - Debe tener al menos una de las siguientes funcionalidades:
-  - Pagos
+  - Pagos (epayco, PayU, Stripe)
   - Presentar información en un mapa.
   - Tiempo Real (Web Sockets).
+  - Integración de LLM con OPENAI o Deepseek. 
 - Debe estar desplegada en Internet (Netllify, Heroku, Vercel)
 - Debe tener pruebas end-to-end con Cypress.
 - Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
@@ -20,10 +21,10 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 	- Descripción de la aplicación.
 	- Tecnologías (React, Material, Express, Socket.io, MongoDB, Postgresql, etc)
 	- Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
-Como respuesta de esta mision deberas agregar los links de:
-- El enlace a github (en caso de tener varios repos incluirlos todos)
-- El video de maximo 7 minutos explicando su proyecto
-- El enlace al despliegue en producción
+- Como respuesta de esta mision deberas agregar los links de:
+	- El enlace a github (en caso de tener varios repos incluirlos todos)
+	- El video de maximo 7 minutos explicando su proyecto
+	- El enlace al despliegue en producción
 
 ## Fecha maxima de entrega preliminar
 
