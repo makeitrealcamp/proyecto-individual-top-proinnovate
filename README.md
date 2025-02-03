@@ -28,13 +28,15 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 
 ## Fecha maxima de entrega preliminar
 
-Lunes 17 de febero de 2025 a las 11:00 pm hora Perú. Después de esta hora no se recibirán los proyectos. 
+Lunes 17 de febero de 2025 a las 11:00 pm hora Perú. Después de esta hora no se recibirán los proyectos.
+Se entrega a través de email dirigido a nayruth.calla@gmail.com  con copia a nayib.abdala@makeitreal.camp 
 
 Una vez entregado el proyecto tu mentor de apoyo te dará retroalimentación y de necesitar correcciones tendrás hasta el 25 de febrero para presentarlas. 
 
 ## Fecha máxima de entrega final
 
 Martes 25 de febrero de 2025 a las 11 pm hora Perú. Después de esta hora no se recibirán más proyectos y no se tendrá derecho a más modificaciones del proyecto para recibir retroalimentación. 
+Se entrega a través de email dirigido a nayruth.calla@gmail.com  con copia a nayib.abdala@makeitreal.camp 
 
 ## Grabaciones de clases
 
