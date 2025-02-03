@@ -18,7 +18,6 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 - Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
 	- Introducción (Nombre del proyecto, URL’s).
 	- Descripción de la aplicación.
-	-	Metodología (Jira, Github, SCRUM, sprints)
 	- Tecnologías (React, Material, Express, Socket.io, MongoDB, Postgresql, etc)
 	- Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
 Como respuesta de esta mision deberas agregar los links de:
