@@ -6,14 +6,14 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 
 ## Requisitos del Proyecto
 - Registro y autenticación de usuarios.
-- Almacenar información en una base de datos (Postgresql).
+- Almacenar información en una base de datos (Postgresql, MySQL, MongoDB, etc).
 - El backend debe estar implementado en Node.js (Express) y el frontend en React. Usar TypeScript es opcional. 
 - Debe incluir carga de imágenes y envío de correos.
 - Debe tener al menos una de las siguientes funcionalidades:
-  - Pagos (epayco, PayU, Stripe)
+  - Pagos (epayco, PayU, Stripe, etc...)
   - Presentar información en un mapa.
   - Tiempo Real (Web Sockets).
-  - Integración de LLM con OPENAI o Deepseek. 
+  - Integración de LLM con OpenAI o Deepseek. 
 - Debe estar desplegada en Internet (Netllify, Heroku, Vercel)
 - Debe tener pruebas end-to-end con Cypress.
 - Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
@@ -28,13 +28,13 @@ Este proyecto te permitirá demostrar tu capacidad para trabajar de forma autón
 
 ## Fecha maxima de entrega preliminar
 
-Lunes 17 de febero de 2025 a las 11:00 pm. Después de esta hora no se recibirán los proyectos. 
+Lunes 17 de febero de 2025 a las 11:00 pm hora Perú. Después de esta hora no se recibirán los proyectos. 
 
 Una vez entregado el proyecto tu mentor de apoyo te dará retroalimentación y de necesitar correcciones tendrás hasta el 25 de febrero para presentarlas. 
 
 ## Fecha máxima de entrega final
 
-Martes 25 de febrero de 2025. 
+Martes 25 de febrero de 2025 a las 11 pm hora Perú. Después de esta hora no se recibirán más proyectos y no se tendrá derecho a más modificaciones del proyecto para recibir retroalimentación. 
 
 ## Grabaciones de clases
 
